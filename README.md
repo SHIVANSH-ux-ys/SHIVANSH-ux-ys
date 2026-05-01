@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivansh</h1>
-<h3 align="center">A passionate 1st-year university student & full-stack developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10FF00&center=true&vCenter=true&width=500&lines=First-Year+University+Student;Full-Stack+Developer;Passionate+about+DSA+%26+Python;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivansh-goel-667193380/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:singaser78@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/SHIVANSH-ux-ys">
-    <img src="https://komarev.com/ghpvc/?username=SHIVANSH-ux-ys&label=Profile%20views&color=0e75b6&style=flat" alt="SHIVANSH-ux-ys" />
-  </a>
 </p>
 
 ---
