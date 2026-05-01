@@ -29,6 +29,5 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVANSH-ux-ys&show_icons=true&theme=radical" alt="SHIVANSH-ux-ys github stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVANSH-ux-ys&layout=compact&theme=radical" alt="SHIVANSH-ux-ys top languages" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=SHIVANSH-ux-ys&theme=radical" alt="GitHub Streak" />
 </p>
