@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10FF00&center=true&vCenter=true&width=435&lines=First-Year+University+Student;Full-Stack+Developer;Passionate+about+DSA+%26+Python;Building+things+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10FF00&center=true&vCenter=true&width=435&lines=Second-Year+University+Student;Full-Stack+Developer;Passionate+about+DSA+%26+Python;Building+things+that+matter" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm currently a **First-Year University Student**.
+- 🎓 I'm currently a **Second-Year University Student**.
 - 🚀 I have experience with **Python, HTML, CSS, JS, Java, Node.js, and React**.
 - 🧠 I am currently diving deep into **Data Structures and Algorithms (DSA) in Python**.
 - 🤝 Always open to collaborating on open-source projects!
