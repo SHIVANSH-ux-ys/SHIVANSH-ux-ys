@@ -45,8 +45,3 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA" />
 </p>
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SHIVANSH-ux-ys&theme=radical" alt="GitHub Streak" />
-</p>
